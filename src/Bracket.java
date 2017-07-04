@@ -3,6 +3,7 @@ import java.util.Stack;
 
 /**
  * Created by Mihail.Kazantsev on 04.07.2017.
+ * My first test sample
  */
 public class Bracket {
 
