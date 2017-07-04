@@ -5,6 +5,7 @@ import java.util.Stack;
  * Created by Mihail.Kazantsev on 04.07.2017.
  * My first test sample
  * My first change in src
+ * My second change in src
  */
 public class Bracket {
 
